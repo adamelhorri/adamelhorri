@@ -1,7 +1,6 @@
 -  Hi, I’m @adamelhorri , actually looking for a apprenticeship in the Data field
--  I’m interested in Data science and machine learning ✨
--  I’m currently working on a master's degree specialized in Artificial intelligence and data science at Montpellier's university 
--  I’m looking to collaborate on Data science projects, including data analysis and machine learning programs
+-  I’m interested in Data science and machine learning and Data Structures and Architecture ✨
+-  I’m currently working on a Master's degree specialized in Artificial intelligence and data science at Montpellier's university 
 -  you can reach me at adamelhorri2@gmail.com 
   
 
